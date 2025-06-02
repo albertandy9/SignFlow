@@ -1,7 +1,7 @@
 # SignFlow
 SignFlow is an Android sign language learning application that uses the Flutter framework with a backend using Firebase.
 
-There is 2 type of application I put here
+There is 2 type of application we put here
   1. Can use real email
   2. Only can use dummy email
 
