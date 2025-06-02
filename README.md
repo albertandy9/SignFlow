@@ -9,3 +9,4 @@ There's still reset button in the top right for debugging, you can reset the acc
   1. The lesson progress
   2. Daily streak
   3. HP
+###
