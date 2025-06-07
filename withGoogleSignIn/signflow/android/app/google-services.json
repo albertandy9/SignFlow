@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229273478367",
+    "project_id": "signflow-4cc7e",
+    "storage_bucket": "signflow-4cc7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229273478367:android:8233982d499ab0a177356a",
+        "android_client_info": {
+          "package_name": "com.example.signflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229273478367-nd1q3t7fm9u6dti9ks21gt47bj24s5p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signflow",
+            "certificate_hash": "57618f0849784c9c818d8e193aa3595be21a23e2"
+          }
+        },
+        {
+          "client_id": "229273478367-k8psg7ger4e89vdvl25ata3sdmjg929j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS3uBRhK11Oq4KtX8W0-Xi4lyGCszs3h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229273478367-k8psg7ger4e89vdvl25ata3sdmjg929j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
