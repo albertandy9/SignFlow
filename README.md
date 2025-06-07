@@ -9,4 +9,10 @@ There's still reset button in the top right for debugging, you can reset the acc
   1. The lesson progress
   2. Daily streak
   3. HP
+
+Feature : 
+  1. Login and Sign Up (google or local)
+  2. Lesson (with video, hp, right or wrong answer)
+  3. Dictionary Page with ASL
+  4. Profile Page with daily streak and purchasing history
 ###
