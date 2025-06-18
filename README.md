@@ -76,7 +76,7 @@ This project was my first deep dive into Flutter and mobile development. I learn
 - Enhance accessibility support
 
 ## Screenshot
-![SignFlow](images/SignFlow.jpg)
+![SignFlow](images/SignFlow.png)
 ![SignFlow1](images/sf-2.jpg)
 ![SignFlow2](images/sf-3.jpg)
 ![SignFlow3](images/sf-4.jpg)
