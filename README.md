@@ -11,28 +11,33 @@ SignFlow is an intuitive mobile application developed using Flutter and Firebase
   
 ## Features 🎯
 
-📚 Structured Learning Path
+📚 **Structured Learning Path**
 - Lessons organized into Units (e.g., Family) and Chapters (e.g., Chapter 1: Family, Chapter 2: Greetings).
 - Each Unit shows the number of Chapters it contains.
 - Users can track progress with visual indicators for completed chapters.
-✋ Interactive Lessons
+
+✋ **Interactive Lessons**
 - Chapters contain multiple sign-based lessons (e.g., Father, Mother, Siblings).
 Each lesson includes:
 - A placeholder area for sign demonstrations
 - Multiple-choice quizzes with instant feedback
 - Retry and Continue options after completing a quiz
-📖 Comprehensive Dictionary
+  
+📖 **Comprehensive Dictionary**
 - A searchable Dictionary section organized by letters (A–Z)
 - Allows users to explore signs outside the main learning path
-👤 User Profile & Progress
+  
+👤 **User Profile & Progress**
 - Personal profile displays:
 - Username and email
 - Daily streak tracker (Mo–Su)
+  
 UI for:
 - Editing profile information
 - Changing password
 - Starting a 7-day free trial (UI only, no backend integration yet)
-🧭 Intuitive Navigation
+  
+🧭 **Intuitive Navigation**
 - Bottom navigation bar for:
 - Home
 - Dictionary
@@ -41,20 +46,20 @@ UI for:
 
 ## Technologies Used 💻
 
-Flutter – Cross-platform UI toolkit by Google
-Dart – Programming language for Flutter
-Firebase – (planned for backend and authentication)
-Material Design & Flutter Widgets – For responsive and consistent UI
+- Flutter – Cross-platform UI toolkit by Google
+- Dart – Programming language for Flutter
+- Firebase – (planned for backend and authentication)
+- Material Design & Flutter Widgets – For responsive and consistent UI
 
 ## Getting Started 🚀
 
 To run the app locally:
 
-git clone https://github.com/your-username/SignFlow.git
-cd SignFlow
-flutter pub get
-flutter run
-Ensure you have Flutter installed and set up on your machine. For more, check the Flutter installation guide.
+- git clone https://github.com/your-username/SignFlow.git
+- cd SignFlow
+- flutter pub get
+- flutter run
+- Ensure you have Flutter installed and set up on your machine. For more, check the Flutter installation guide.
 
 ## Lessons Learned 🧠
 
